@@ -13,6 +13,8 @@ The source code for contact management system project in C is complete and total
 
 You can learn effective use of file handling, data structure and pointers from this project, especially how to record, modify, search, view and remove data in a file.
 
+![R98](https://user-images.githubusercontent.com/80455876/130133855-b86210ca-00f9-43d6-8812-cc5e7cc6063d.png)
+
 The advantages of contact management systems :
 
 Most of the CMS is open source and is available for free.
