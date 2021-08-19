@@ -1,4 +1,4 @@
-#Features:
+## Features:
 
 The Features of this contact managment system are:
 
