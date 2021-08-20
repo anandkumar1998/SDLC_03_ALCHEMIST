@@ -68,15 +68,7 @@ The cloud can be used to analyze social interactions and conversations of contac
 
 ## Features with time
 
-Time	Feature
-1)1986	Efficient storage and organization of contact information.
-2)Late 1980’s	An explosive growth in software development due to the proliferation of personal computers.
-3)1993	Siebel systems were developed quickly.
-4)1995	Contact management had evolved to closely resemble modern CRM software.
-5)Late 1990’s	Debut of the first major software as a service vendor.
-6)2007	Introduction to the cloud based contact management.
-7)Late 2000’s	Cloud-based CRM’s continue to integrate more features like customer service.
-
+![time features](https://user-images.githubusercontent.com/81163246/130176176-d20a15d0-fab8-46f1-aab1-f1a48cb06909.PNG)
 
 ## 4 W's AND 1 H
 ### WHO
