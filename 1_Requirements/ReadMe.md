@@ -17,7 +17,7 @@ You can learn effective use of file handling, data structure and pointers from t
 
 The advantages of contact management systems (CMS):
 
-Most of the CMS is open source and is available for free.
+* Most of the CMS is open source and is available for free.
 Easy and quick uploading of media files can be done.
 Several SEO tools make on-site SEO simpler.
 Easy customization is possible as per the need of the user.
