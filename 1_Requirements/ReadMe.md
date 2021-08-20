@@ -55,3 +55,17 @@ Easy search - Quick search for recently used contact number
 Blocking of contacts - Blocking any contact that is thretening or causing harm
 
 
+## 4 W's AND 1 H
+### WHO
+Everybody from students, teachers, professionals, anybody associated wth any business who is in need of a contact management system to group contacts and also view all details related to the customer. 
+
+### WHAT
+Contact management is a tool required to organise and view contacts. This makes it easier to access to access contacts and maintain a tidy record .
+
+### WHERE
+This tool can be used by anyone and everywhere. 
+
+### WHEN
+Contact Management is used when a person wants to view, add , delete, update , group any contact of their customer .
+
+### HOW
