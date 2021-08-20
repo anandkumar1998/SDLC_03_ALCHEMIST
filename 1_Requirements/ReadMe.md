@@ -15,7 +15,7 @@ You can learn effective use of file handling, data structure and pointers from t
 
 ![R98](https://user-images.githubusercontent.com/80455876/130133855-b86210ca-00f9-43d6-8812-cc5e7cc6063d.png)
 
-The advantages of contact management systems :
+The advantages of contact management systems (CMS):
 
 Most of the CMS is open source and is available for free.
 Easy and quick uploading of media files can be done.
@@ -84,3 +84,21 @@ This tool can be used by anyone and everywhere.
 Contact Management is used when a person wants to view, add , delete, update , group any contact of their customer .
 
 ### HOW
+
+
+## High Level Requirements
+|ID|Description|  Status |
+|--|--|--|
+| HLR01  | Create a MENU for the user to choose their required option in the CMS| COMPLETED|
+| HLR02  |  Add contact details to the CMS such as name, address, phone number, email id, etc| COMPLETED|
+| HLR03  |  List the contacts of all user entries into the CMS  | COMPLETED|
+| HLR04 |  Run a search for particular contact using the user credentials provided in the CMS | COMPLETED|
+| HLR05  |  Edit a particular contact that was previously entered into the CMS  | COMPLETED|
+| HLR06  |  Delete specific contacts from the CMS by specifying user credentials  | COMPLETED|
+| HLR07  |  Add and update Emergency contacts into the CMS   | In Progress|
+| HLR08  |  Import and export contacts in and out of the CMS ledger  | In Progress|
+| HLR09  |  Block a particular contact from the CMS  | In Progress|
+| HLR10  | Create a group of favourites from the list of contacts as per the interests of the user | In Progress|
+| HLR11  |  Import and export contacts in and out of the CMS ledger  | In Progress|
+| HLR12  |  Assign Business credentials to the user such as managing contacts, organizations, partners, vendors and suppliers.  | In Progress|
+|HLR13|Obtain reports based on daily/weekly basis and view graphical reports. | In Progress
