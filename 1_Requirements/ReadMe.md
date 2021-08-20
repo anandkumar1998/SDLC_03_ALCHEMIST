@@ -116,4 +116,6 @@ Contact Management is used when a person wants to view, add , delete, update , g
 
 ## SWOT ANALYSIS
 
+![SWOT](https://user-images.githubusercontent.com/67320294/130224307-b599e84d-c7bd-4e74-b233-3c7a0843da81.jpg)
+
 
