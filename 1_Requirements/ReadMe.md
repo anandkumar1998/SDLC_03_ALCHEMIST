@@ -5,13 +5,9 @@ What is contact management?
  
 Contact management is the process of recording contacts’ details and tracking their interactions with a business. Such systems have gradually evolved into an aspect of customer relationship management (CRM) systems, which allow businesses to improve sales and service levels leveraging a wider range of data.
 
-Mini Project in C Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
+Mini Project in C Contact Management System is a simple console application. It is similar to the contact manager in cell phones. In this project,user can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
 
-You can list contacts by name, phone no., address and email. File handling has been used to record all data. We have used data structure to store the user name, email and contact. Overall, understanding the simple source code of this project will teach you how to add, edit, search, list and remove data using file.
-
-The source code for contact management system project in C is complete and totally error-free. It is short and simple – just over 200 lines.
-
-You can learn effective use of file handling, data structure and pointers from this project, especially how to record, modify, search, view and remove data in a file.
+User can list contacts by name, phone no., address and email. File handling has been used to record all data. We have used data structure to store the user name, email and contact and Address.
 
 ![R98](https://user-images.githubusercontent.com/80455876/130133855-b86210ca-00f9-43d6-8812-cc5e7cc6063d.png)
 
