@@ -117,3 +117,7 @@ Contact Management is used when a person wants to view, add , delete, update , g
 | LLR10| Using structures, a group of favourite contacts can be made as per user input| In Progress|
 | LLR11| Creating a business profile for the user and calculation of interests, balance, status of transaction etc using structures and switch case| In Progress|
 | LLR12| Making reports of the ledger using file handling operations such as fputs, structures and pointers| In Progress|
+
+## SWOT ANALYSIS
+
+
