@@ -99,6 +99,21 @@ Contact Management is used when a person wants to view, add , delete, update , g
 | HLR08  |  Import and export contacts in and out of the CMS ledger  | In Progress|
 | HLR09  |  Block a particular contact from the CMS  | In Progress|
 | HLR10  | Create a group of favourites from the list of contacts as per the interests of the user | In Progress|
-| HLR11  |  Import and export contacts in and out of the CMS ledger  | In Progress|
-| HLR12  |  Assign Business credentials to the user such as managing contacts, organizations, partners, vendors and suppliers.  | In Progress|
-|HLR13|Obtain reports based on daily/weekly basis and view graphical reports. | In Progress
+| HLR11  |  Assign Business credentials to the user such as managing contacts, organizations, partners, vendors and suppliers.  | In Progress|
+|HLR12|Obtain reports based on daily/weekly basis and view graphical reports. | In Progress
+
+## Low Level Requirements
+|ID|Description|  Status |
+|--|--|--|
+| LLR01  | The Menu is to be created using switch-case functionality for the required options| COMPLETED|
+| LLR02  | Add user contact details such as name, contact, email, address using File I/O operations and pointers, structures etc| COMPLETED|
+| LLR03  | List the Contacts availabe in the contact.dll file in which all the contacts are saved in alphabetical order.| COMPLETED|
+| LLR04  | Searching a particular name or multiple name in list using file read and conditional statements | COMPLETED|
+| LLR05  | Edit contacts by replacing existing contacts in the file with new entries using string compare and file write | COMPLETED|
+| LLR06  | Remove the entries using file remove and modifying the file pointer | COMPLETED|
+| LLR07  | Using file write and structures, emergency contacts are added to the CMS | In Progress|
+| LLR08  | Export contacts from the CMS using extern keyword and using .csv files | In Progress|
+| LLR09 | Block contact by removing the access using that particular file pointer| In Progress|
+| LLR10| Using structures, a group of favourite contacts can be made as per user input| In Progress|
+| LLR11| Creating a business profile for the user and calculation of interests, balance, status of transaction etc using structures and switch case| In Progress|
+| LLR12| Making reports of the ledger using file handling operations such as fputs, structures and pointers| In Progress|
