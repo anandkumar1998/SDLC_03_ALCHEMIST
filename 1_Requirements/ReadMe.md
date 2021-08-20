@@ -15,22 +15,22 @@ You can learn effective use of file handling, data structure and pointers from t
 
 ![R98](https://user-images.githubusercontent.com/80455876/130133855-b86210ca-00f9-43d6-8812-cc5e7cc6063d.png)
 
-The advantages of contact management systems (CMS):
+### Advantages of contact management systems (CMS):
 
 * Most of the CMS is open source and is available for free.
-Easy and quick uploading of media files can be done.
-Several SEO tools make on-site SEO simpler.
-Easy customization is possible as per the need of the user.
-It can modify CSS files as per the design needed by the user.
-Many templates and plugins are available for free. Customization of plugins is also possible.
-Content editing is also more comfortable as it uses the WYSIWYG editor.
+* Easy and quick uploading of media files can be done.
+* Several SEO tools make on-site SEO simpler.
+* Easy customization is possible as per the need of the user.
+* It can modify CSS files as per the design needed by the user.
+* Many templates and plugins are available for free. Customization of plugins is also possible.
+* Content editing is also more comfortable as it uses the WYSIWYG editor.
 
-The limitations of contact management systems :
+### Limitations of contact management systems :
 
-CMS software needs a time-to-time update, and hence the user needs to look out for an updated version.
-The use of different plugins can make your website heavy and challenging to run.
-CMS hosting is quite expansive.
-PHP knowledge is required to modify or change the WordPress website.
+* CMS software needs a time-to-time update, and hence the user needs to look out for an updated version.
+* The use of different plugins can make your website heavy and challenging to run.
+* CMS hosting is quite expansive.
+* PHP knowledge is required to modify or change the WordPress website.
 
 ## Features:
 
