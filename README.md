@@ -1,5 +1,5 @@
 # SDLC_03_ALCHEMIST PROJECT!!
-This Project simple Business Contact Management Systems where you can add, view, edit, search and delete contacts. Even it is further developed with features such as Adding contacts as favorite, Emergency contacts, Easy search, Blocking of contacts.
+This Project is simple Business Contact Management Systems where you can add, view, edit, search and delete contacts. Even it is further developed with features such as Adding contacts as favorite, Emergency contacts, Easy search, Blocking of contacts.
 # SDLC Activity Based Learning
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
@@ -17,7 +17,7 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No. Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
        |         |                |                |               |             |          
        |         |                |                |               |             |          
