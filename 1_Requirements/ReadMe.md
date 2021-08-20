@@ -67,17 +67,17 @@ The cloud can be used to analyze social interactions and conversations of contac
 ![features with time](https://user-images.githubusercontent.com/81163246/130176943-443e303e-29f6-48df-b020-2589549e0b9b.jpeg)
 
 ## 4 W's AND 1 H
-### WHO
-Everybody from students, teachers, professionals, anybody associated wth any business who is in need of a contact management system to group contacts and also view all details related to the customer. 
-
 ### WHAT
-Contact management is a tool required to organise and view contacts. This makes it easier to access to access contacts and maintain a tidy record .
+Contact management is a tool required to organise and view contacts.This software can also be used to update and block contacts.COntacts can also be grouped into categories such as friends, clients, partners etc. This makes it easier to access to access contacts and maintain a tidy record .Apart from contact management, this application also provides necessary information such as transaction details. 
+
+### WHO
+This application can be used by all business professionals, business firms and business organisations. This application has features such as grouping contacts and easy search option. The user can also view all details related to their customer.
 
 ### WHERE
-This tool can be used by anyone and everywhere. 
+This tool can be used by anyone and everywhere. The search option that this application provides makes it easy to access data at a faster rate. 
 
 ### WHEN
-Contact Management is used when a person wants to view, add , delete, update , group any contact of their customer .
+Contact Management is used when a person wants to view, add , delete, update , group any contact of their customer . This can also be used when the user wants wants to view details regarding their client, partner or customer. This application can also be used to block contacts and update business credentials of the customer.
 
 ### HOW
 
