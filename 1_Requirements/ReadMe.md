@@ -54,6 +54,29 @@ Easy search - Quick search for recently used contact number
 
 Blocking of contacts - Blocking any contact that is thretening or causing harm
 
+## Benefits
+### Improved data management
+When you store and manage your contact data in spread sheets, you run the risk of human error in the data entry 
+Process. But once we save a contact in phone,it is easy
+to retrieve or find it from the contacts.			
+
+### Quick reach for information
+Contact management provide complete information on contacts anytime,anywhere. So it will be easy to find a contact anytime.	
+
+### Integration with social media
+The cloud can be used to analyze social interactions and conversations of contacts on facebook,twitter,linkedin and other social platforms.
+
+## Features with time
+
+Time	Feature
+1)1986	Efficient storage and organization of contact information.
+2)Late 1980’s	An explosive growth in software development due to the proliferation of personal computers.
+3)1993	Siebel systems were developed quickly.
+4)1995	Contact management had evolved to closely resemble modern CRM software.
+5)Late 1990’s	Debut of the first major software as a service vendor.
+6)2007	Introduction to the cloud based contact management.
+7)Late 2000’s	Cloud-based CRM’s continue to integrate more features like customer service.
+
 
 ## 4 W's AND 1 H
 ### WHO
