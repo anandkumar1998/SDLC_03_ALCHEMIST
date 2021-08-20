@@ -68,7 +68,7 @@ The cloud can be used to analyze social interactions and conversations of contac
 
 ## Features with time
 
-![time features](https://user-images.githubusercontent.com/81163246/130176176-d20a15d0-fab8-46f1-aab1-f1a48cb06909.PNG)
+![features with time](https://user-images.githubusercontent.com/81163246/130176943-443e303e-29f6-48df-b020-2589549e0b9b.jpeg)
 
 ## 4 W's AND 1 H
 ### WHO
