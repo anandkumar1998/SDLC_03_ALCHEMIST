@@ -109,7 +109,7 @@ Contact Management is used when a person wants to view, add , delete, update , g
 | LLR06  | Remove the entries using file remove and modifying the file pointer | COMPLETED|
 | LLR07  | Using file write and structures, emergency contacts are added to the CMS | In Progress|
 | LLR08  | Export contacts from the CMS using extern keyword and using .csv files | In Progress|
-| LLR09 | Block contact by removing the access using that particular file pointer| Completed|
+| LLR09 | Block contact by removing the access using that particular file pointer| COMPLETED|
 | LLR10| Using structures, a group of favourite contacts can be made as per user input| In Progress|
 | LLR11| Creating a business profile for the user and calculation of interests, balance, status of transaction etc using structures and switch case| In Progress|
 | LLR12| Making reports of the ledger using file handling operations such as fputs, structures and pointers| In Progress|
