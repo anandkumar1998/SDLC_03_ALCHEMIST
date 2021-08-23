@@ -1,6 +1,6 @@
 # SDLC_03_ALCHEMIST - MINI PROJECT
 
-# SDLC Activity Based Learning
+## SDLC Activity Based Learning
 [![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)
 
 
