@@ -1,7 +1,6 @@
 # SDLC_03_ALCHEMIST - MINI PROJECT
 
-https://user-images.githubusercontent.com/47855937/130429996-d9b5a9b1-70e1-47c7-870c-ceded4813bdb.mp4
-
+![My Post (1)](https://user-images.githubusercontent.com/47855937/130431373-20d72c4b-12f6-4c5e-a1e6-f5fb312a7357.gif)
 
 
 This Project - Business Digital Book is an application that can be used by all business customer, firms and organisations to can add, view, edit, search , delete and block contacts and record all business credentials of the customer/ partner/ client. This application can also be used to add a contact as favourite and to view all emergency contacts - ambulance, fire station, Police Station. 
