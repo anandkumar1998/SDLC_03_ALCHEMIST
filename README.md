@@ -9,7 +9,7 @@ This Project - Business Digital Book is an application that can be used by all b
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-      |          |       |[![Contribution Check - Git Inspector](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml)
+      |          |       |
 
 ----
 ## Folder Structure
