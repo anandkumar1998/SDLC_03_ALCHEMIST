@@ -10,7 +10,7 @@ This Project - Business Digital Book is an application that can be used by all b
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------------
       |          |       |
-
+----------------------------------------------
 ----
 ## Folder Structure
 Folder               | Description
