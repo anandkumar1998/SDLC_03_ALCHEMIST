@@ -12,7 +12,7 @@ struct contact
 } list;
 FILE *fr;
 char query[20],name[20];
-FILE *fp, *fc;
+FILE *fv, *fc;
 int i,n,ch1,l,found;
 void fav_contact(){
 printf("Do you want to add a new contact to fav or do you want to add existing contact to fav ?");
@@ -23,6 +23,7 @@ scanf("%d",&ch1);
 if (ch1 == 0){
         printf("For new contact: ");
         fc=fopen("fav_contacts.dll","a");
+        fv=fopen("contact.dll","a");
         for (;;)
         {
             fflush(stdin);
@@ -41,8 +42,10 @@ if (ch1 == 0){
             gets(list.email);
             printf("\n");
             fwrite(&list,sizeof(list),1,fc);
+            fwrite(&list,sizeof(list),1,fv);
         }
         fclose(fc);
+        fclose(fv);
         
         
 }
