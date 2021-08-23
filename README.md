@@ -1,5 +1,6 @@
-# SDLC_03_ALCHEMIST PROJECT!!
-This Project is simple Business Contact Management Systems where you can add, view, edit, search and delete contacts. Even it is further developed with features such as Adding contacts as favorite, Emergency contacts, Easy search, Blocking of contacts.
+# SDLC_03_ALCHEMIST - MINI PROJECT
+This Project - Business Digital Book is an application that can be used by all business customer, firms and organisations to can add, view, edit, search , delete and block contacts and record all business credentials of the customer/ partner/ client. This application can also be used to add a contact as favourite and to view all emergency contacts - ambulance, fire station, Police Station. 
+
 # SDLC Activity Based Learning
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
@@ -8,12 +9,14 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 ----
 ## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan`      | Documents with test plans and procedures
+Folder              | Description
+------------------- | -----------------------------------------------
+`1_Requirements`    | Documents detailing requirements and research
+`2_Architecture     | UML Structural and Behavioural Diagram
+`3_Implementation`  | All codes 
+`4_TestPlanAndOutput| Documents with test plans and procedures
+`5_Report           | Report Containing Daily work Progress
+`6_ImagesAndVideos  | All images and videos used in the project
 
 ## Contributors List and Summary
 
