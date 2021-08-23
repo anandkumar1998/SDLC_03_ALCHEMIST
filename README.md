@@ -9,14 +9,14 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 ----
 ## Folder Structure
-Folder              | Description
-------------------- | -----------------------------------------------
-`1_Requirements`    | Documents detailing requirements and research
-`2_Architecture     | UML Structural and Behavioural Diagram
-`3_Implementation`  | All codes 
-`4_TestPlanAndOutput| Documents with test plans and procedures
-`5_Report           | Report Containing Daily work Progress
-`6_ImagesAndVideos  | All images and videos used in the project
+Folder               | Description
+-------------------  | -----------------------------------------------
+`1_Requirements`     | Documents detailing requirements and research
+`2_Architecture`     | UML Structural and Behavioural Diagram
+`3_Implementation`   | All codes 
+`4_TestPlanAndOutput`| Documents with test plans and procedures
+`5_Report`           | Report Containing Daily work Progress
+`6_ImagesAndVideos`  | All images and videos used in the project
 
 ## Contributors List and Summary
 
