@@ -30,8 +30,8 @@ void report()
             // To avoid printing of column
             // names in file can be changed
             // according to need
-            if (row == 1)
-                continue;
+            /*if (row == 1)
+                continue;*/
   
             // Splitting the data
             char* value = strtok(buffer, ", ");
