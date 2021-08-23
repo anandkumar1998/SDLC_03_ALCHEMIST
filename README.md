@@ -8,7 +8,7 @@ This Project - Business Digital Book is an application that can be used by all b
 # SDLC Activity Based Learning
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+------|----------|-------|--------------------
       |          |       |
 
 ----
