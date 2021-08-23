@@ -1,9 +1,5 @@
 # SDLC_03_ALCHEMIST - MINI PROJECT
 
-![My Post (2)](https://user-images.githubusercontent.com/47855937/130426346-bdb6eade-497a-4551-9b08-c92d5dbdbc71.png)
-
-
-
 https://user-images.githubusercontent.com/47855937/130429996-d9b5a9b1-70e1-47c7-870c-ceded4813bdb.mp4
 
 
