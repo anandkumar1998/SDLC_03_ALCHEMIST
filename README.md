@@ -1,16 +1,14 @@
 # SDLC_03_ALCHEMIST - MINI PROJECT
 
+# SDLC Activity Based Learning
+[![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)
+
+
 ![My Post (1)](https://user-images.githubusercontent.com/47855937/130431373-20d72c4b-12f6-4c5e-a1e6-f5fb312a7357.gif)
 
 
 This Project - Business Digital Book is an application that can be used by all business customer, firms and organisations to can add, view, edit, search , delete and block contacts and record all business credentials of the customer/ partner/ client. This application can also be used to add a contact as favourite and to view all emergency contacts - ambulance, fire station, Police Station. 
 
-# SDLC Activity Based Learning
-
-Build | Code Quality | Unity | Git Inspector
-------|----------|-------|--------------------
-      | [![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)
-      
 ----
 ## Folder Structure
 Folder               | Description
