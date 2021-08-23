@@ -3,6 +3,7 @@
 ## SDLC Activity Based Learning
 [![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml)
 
 ![My Post (1)](https://user-images.githubusercontent.com/47855937/130431373-20d72c4b-12f6-4c5e-a1e6-f5fb312a7357.gif)
 
