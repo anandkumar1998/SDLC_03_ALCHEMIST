@@ -1,9 +1,9 @@
 ## INTRODUCTION:
 ![contact3](https://user-images.githubusercontent.com/80455876/130133377-f7f14fff-e410-4ac4-ba91-2d473e90af5e.jpg)
 
-What is contact management?
+What is Business digital book?
  
-Contact management is the process of recording contacts’ details and tracking their interactions with a business. Such systems have gradually evolved into an aspect of customer relationship management (CRM) systems, which allow businesses to improve sales and service levels leveraging a wider range of data.
+Business digital book is the process of recording contacts’ details and tracking their interactions with a business. Such systems have gradually evolved into an aspect of customer relationship management (CRM) systems, which allow businesses to improve sales and service levels leveraging a wider range of data.
 
 Mini Project in C Contact Management System is a simple console application. It is similar to the contact manager in cell phones. In this project,user can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
 
@@ -11,26 +11,24 @@ User can list contacts by name, phone no., address and email. File handling has 
 
 ![R98](https://user-images.githubusercontent.com/80455876/130133855-b86210ca-00f9-43d6-8812-cc5e7cc6063d.png)
 
-### Advantages of contact management systems (CMS):
+### Advantages of Business Digital book:
 
-* Most of the CMS is open source and is available for free.
+* Most of the BDB is open source and is available for free.
 * Easy and quick uploading of media files can be done.
-* Several SEO tools make on-site SEO simpler.
 * Easy customization is possible as per the need of the user.
 * It can modify CSS files as per the design needed by the user.
 * Many templates and plugins are available for free. Customization of plugins is also possible.
 * Content editing is also more comfortable as it uses the WYSIWYG editor.
 
-### Limitations of contact management systems :
+### Limitations of Business Digital Book :
 
-* CMS software needs a time-to-time update, and hence the user needs to look out for an updated version.
+* BDB software needs a time-to-time update, and hence the user needs to look out for an updated version.
 * The use of different plugins can make your website heavy and challenging to run.
-* CMS hosting is quite expansive.
-* PHP knowledge is required to modify or change the WordPress website.
+* BDB hosting is quite expansive.
 
 ## Features:
 
-The Features of this contact managment system are:
+The Features of this Business Digital Book are:
 
 Add a new Contact - New contact can be added to the contact.dll file.
 
