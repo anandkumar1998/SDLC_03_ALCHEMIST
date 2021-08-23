@@ -9,7 +9,7 @@ This Project - Business Digital Book is an application that can be used by all b
 
 Build | Code Quality | Unity | Git Inspector
 ------|----------|-------|--------------------
-      |          |       |
+      | [![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)
       
 ----
 ## Folder Structure
