@@ -44,4 +44,8 @@ void search_to_add_fav();
 
 void list_all_favourites();
 
+void transaction();
+
+void report();
+
 #endif
