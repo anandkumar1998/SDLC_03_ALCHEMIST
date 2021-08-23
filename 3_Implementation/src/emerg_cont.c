@@ -1,5 +1,5 @@
 /**
- * @file main_test.c
+ * @file emerg_cont.c
  * @author Shiva S
  * @brief To list all default emergency contacts using File I/O and and also add
 		add any additional eemrgency contacts using .dll and .txt files
@@ -36,7 +36,7 @@ FILE *fp, *ft, *fw, *fr;
 
 int i,n,ch,l,found;
 
-int main()
+void emerg_cont()
 
 {
         system("cls");
@@ -176,7 +176,4 @@ int main()
             fclose(fp);
 
         }
-
-    return 0;
-
 }
