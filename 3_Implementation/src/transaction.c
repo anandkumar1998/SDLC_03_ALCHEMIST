@@ -71,14 +71,14 @@ static int tempday=0, tempmonth=0;
     if(choice==1){
         int debit=account.amount;
         int credit = 0;
-        fprintf(fp, "%d,%s, %s, %d, %d\n",month, account.date,
+        fprintf(fp, "%d,%s, %s, %d, %d\n",tempmonth, account.date,
             account.particulars, debit, credit);
 
     }
     else if(choice == 2){
        int debit= 0;
         int credit = account.amount;
-        fprintf(fp, "%d,%s, %s, %d, %d\n", month,account.date,
+        fprintf(fp, "%d,%s, %s, %d, %d\n", tempmonth,account.date,
             account.particulars, debit, credit);
 
     }
