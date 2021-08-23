@@ -40,7 +40,7 @@ static int tempday=0, tempmonth=0;
    // printf("%s",daychar);
      printf("\n enter month of transaction\n");
     scanf("%d", &month);
-    if ((!(month>=tempmonth))||(!(day>=1 && day<=12))){
+    if ((!(day>=1 && day<=12))){
         printf("invalid input");
         break;
 
