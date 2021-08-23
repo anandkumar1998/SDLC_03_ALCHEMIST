@@ -11,7 +11,9 @@ src/contact_to_block.c\
 src/list_all_blocked_contact.c\
 src/fav_contact.c\
 src/search_to_add_fav.c\
-src/list_all_favourites.c
+src/list_all_favourites.c\
+src/transaction.c\
+src/report.c
 
 TEST = test.c\
 unity/unity.c

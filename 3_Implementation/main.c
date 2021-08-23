@@ -29,7 +29,7 @@ int main()
 main:
     system("cls");    /* ************Main menu ***********************  */
     printf("\n\t **** Welcome to Contact Management System ****");
-    printf("\n\n\n\t\t\tMAIN MENU\n\t\t=====================\n\t\t[1] Add a new Contact\n\t\t[2] List all Contacts\n\t\t[3] Search for contact\n\t\t[4] Edit a Contact\n\t\t[5] Delete a Contact\n\t\t[6] Block a Contact\n\t\t[7] List all blocked Contacts\n\t\t[8] Add to favorites Contacts\n\t\t[9] List all favorites Contacts\n\t\t[0] Exit\n\t\t=================\n\t\t");
+    printf("\n\n\n\t\t\tMAIN MENU\n\t\t=====================\n\t\t[1] Add a new Contact\n\t\t[2] List all Contacts\n\t\t[3] Search for contact\n\t\t[4] Edit a Contact\n\t\t[5] Delete a Contact\n\t\t[6] Block a Contact\n\t\t[7] List all blocked Contacts\n\t\t[8] Add to favorites Contacts\n\t\t[9] List all favorites Contacts\n\t\t[10] Transaction\n\t\t[11] Generate report\n\t\t[0] Exit\n\t\t=================\n\t\t");
     printf("Enter the choice:");
     scanf("%d",&ch);
 
@@ -87,6 +87,16 @@ main:
     case 9:
         system("cls");
         list_all_favourites();
+        break;
+
+    case 10:
+        system("cls");
+        transaction();
+        break;
+    
+    case 11:
+        system("cls");
+        report();
         break;
     
     
