@@ -38,7 +38,7 @@ Folder               | Description
 | **FEATURE Id** | **FEATURE** |
 |:---------:|:-----------------------------|
 | F_1 | View all contacts|
-| F_2 | Edit contacts |
+| F_2 | Append contacts |
 | F_3 | Search contacts |
 | F_4 | Add contacts to favourites |
 | F_5 | View all favourites |
