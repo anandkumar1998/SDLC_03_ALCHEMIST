@@ -43,13 +43,13 @@
 
 ## Day - 4 - 23rd August,2021
 
-### Test Plan - Shiva S
-### Doxygen Documentation - Singamreddy Sai Rishita
-### Project Poster - G Shobitha
-### Setting up github workflows - Raghavendra A M
+* Test Plan - Shiva S
+* Doxygen Documentation - Singamreddy Sai Rishita
+* Project Poster - G Shobitha
+* Setting up github workflows - Raghavendra A M
 
 ## Day - 5 - 24th August,2021
-### Report- G Shobitha
-### ReadMe.md - G Shobitha
-### Images - Raghavendra A M
+* Report- G Shobitha
+* ReadMe.md - G Shobitha
+* Images - Raghavendra A M
 
