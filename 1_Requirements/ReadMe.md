@@ -1,13 +1,12 @@
 ## INTRODUCTION:
-![contact3](https://user-images.githubusercontent.com/80455876/130133377-f7f14fff-e410-4ac4-ba91-2d473e90af5e.jpg)
 
-What is Business digital book?
+### What is Business digital book?
  
-Business digital book is the process of recording contacts’ details and tracking their interactions with a business. Such systems have gradually evolved into an aspect of customer relationship management (CRM) systems, which allow businesses to improve sales and service levels leveraging a wider range of data.
+* Business digital book is the process of recording contacts’ details and tracking their interactions with a business. Such systems have gradually evolved into an aspect of customer relationship management (CRM) systems, which allow businesses to improve sales and service levels leveraging a wider range of data.
 
-Mini Project in C Contact Management System is a simple console application. It is similar to the contact manager in cell phones. In this project,user can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
+* Mini Project in C Contact Management System is a simple console application. It is similar to the contact manager in cell phones. In this project,user can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
 
-User can list contacts by name, phone no., address and email. File handling has been used to record all data. We have used data structure to store the user name, email and contact and Address.
+* User can list contacts by name, phone no., address and email. File handling has been used to record all data. We have used data structure to store the user name, email and contact and Address.
 
 ![R98](https://user-images.githubusercontent.com/80455876/130133855-b86210ca-00f9-43d6-8812-cc5e7cc6063d.png)
 
@@ -30,23 +29,23 @@ User can list contacts by name, phone no., address and email. File handling has 
 
 The Features of this Business Digital Book are:
 
-Add a new Contact - New contact can be added to the contact.dll file.
+* Add a new Contact - New contact can be added to the contact.dll file.
 
-List all Contact- All the contacts that are stored in contact.dll file can be displayed.
+* List all Contact- All the contacts that are stored in contact.dll file can be displayed.
 
-Search a contact - A particular contact can be searched using their name.
+* Search a contact - A particular contact can be searched using their name.
 
-Edit a contact - Any contact in the file can be edited anytime.
+* Edit a contact - Any contact in the file can be edited anytime.
 
-Delete a contact - Unwanted contact can be deleted from the file.
+* Delete a contact - Unwanted contact can be deleted from the file.
 
-Adding contacts as favorite - Keeping the most used contacts in favorite section
+* Adding contacts as favorite - Keeping the most used contacts in favorite section
 
-Emergency contacts - Keeping emergency contacts such as Ambulance number, Police number, family members contacts etc.
+* Emergency contacts - Keeping emergency contacts such as Ambulance number, Police number, family members contacts etc.
 
-Easy search - Quick search for recently used contact number
+* Easy search - Quick search for recently used contact number
 
-Blocking of contacts - Blocking any contact that is thretening or causing harm
+* Blocking of contacts - Blocking any contact that is thretening or causing harm
 
 ## Benefits
 ### Improved data management
