@@ -7,6 +7,7 @@ This Project - Business Digital Book is an application that can be used by all b
 
 ## SDLC Activity Based Learning
 [![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)  [![Contribution Check - Git Inspector](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml)  [![CI](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/main.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/main.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3dc00a061a0140d2be9b3fbf4ba7f55d)](https://www.codacy.com/gh/Shobzy/SDLC_03_ALCHEMIST/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shobzy/SDLC_03_ALCHEMIST&amp;utm_campaign=Badge_Grade)
 
 
 ## Folder Structure
@@ -38,7 +39,7 @@ Folder               | Description
 | **FEATURE Id** | **FEATURE** |
 |:---------:|:-----------------------------|
 | F_1 | View all contacts|
-| F_2 | Append contacts |
+| F_2 | Edit contacts |
 | F_3 | Search contacts |
 | F_4 | Add contacts to favourites |
 | F_5 | View all favourites |
@@ -49,6 +50,11 @@ Folder               | Description
 | F_10 | Business Transactions |
 | F_11 | Delete contact |
 |F_12| Test Plan|
+
+## Challenges
+* Inavailability of documentation for testing file I/O
+* Didnot know how to add testfiles for function with void type
+
 
 
 ## Reference
