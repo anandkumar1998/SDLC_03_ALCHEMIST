@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 #include<string.h>
 #include<process.h>
@@ -15,7 +16,7 @@ char query[20],name[20];
 FILE *fv, *fc;
 int i,n,ch1,l,found;
 void fav_contact(){
-printf("Do you want to add a new contact to fav or do you want to add existing contact to fav ?");
+printf("Do you want to add a new contact to fav or do you want to add existing contact to fav ?\n");
 printf("[0]for new\t\t[1]existing");
 printf("Enter the choice:");
 scanf("%d",&ch1);
@@ -53,7 +54,7 @@ else{
     search_to_add_fav();
 }
         
-        /* *********************Add new contacts************  */
+    
 
 
     }
