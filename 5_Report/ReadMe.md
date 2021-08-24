@@ -11,7 +11,7 @@
 
 ## Day - 1 - 19th August ,2021
 ### Team Name- Alchemist
-### Github Repo - 
+### Github Repo - https://github.com/Shobzy/SDLC_03_ALCHEMIST.git
 ### Project Objective -  Create an application to handle contacts and business transactions for business solutions.
 ### Requirements - 
 * Introduction - Suhas L
@@ -39,10 +39,12 @@
 * Search a Contact - AM Raghavendra
 * Data Entry - Aquil Rodriguez
 * Business Transactions - Anais Nikitha
+* Code Integration - Aquil Rodriguez
 
 ## Day - 4 - 23rd August,2021
 ### Test Plan - Shiva S
 ### Doxygen Documentation - Singamreddy Sai Rishita
+### Project Poster - G Shobitha
 
 ## Day - 5 - 24th August,2021
 ### Report- G Shobitha
