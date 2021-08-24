@@ -1,4 +1,5 @@
 # SDLC_03_ALCHEMIST - MINI PROJECT
+This Project - Business Digital Book is an application that can be used by all business customer, firms and organisations to can add, view, edit, search , delete and block contacts and record all business credentials of the customer/ partner/ client. This application can also be used to add a contact as favourite and to view all emergency contacts - ambulance, fire station, Police Station. 
 
 
 
@@ -7,9 +8,7 @@
 ## SDLC Activity Based Learning
 [![Code Quality - Static Code - Cppcheck](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/Cpp_check.yml)  [![Contribution Check - Git Inspector](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/git_inscpector.yml)  [![CI](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/main.yml/badge.svg)](https://github.com/Shobzy/SDLC_03_ALCHEMIST/actions/workflows/main.yml)
 
-This Project - Business Digital Book is an application that can be used by all business customer, firms and organisations to can add, view, edit, search , delete and block contacts and record all business credentials of the customer/ partner/ client. This application can also be used to add a contact as favourite and to view all emergency contacts - ambulance, fire station, Police Station. 
 
-----
 ## Folder Structure
 Folder               | Description
 -------------------  | -----------------------------------------------
