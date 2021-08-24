@@ -23,7 +23,7 @@
 ## Day - 2 - 20th August,2021
 * UML - Behavioural UML - Shiva S and Anais Nikitha
 * UML - Structural UML - Aquil Rodriquez and Anand Kumar
-* UML - Behavioural UML - AM Raghavendra and Suhas L
+* UML - Behavioural UML - A M Raghavendra and Suhas L
 * UML - Structural UML - Singamreddy Sai Rishita and G Shobitha
 
 ## Day - 3 - 21st August,2021
@@ -36,7 +36,7 @@
 * List all Favourite Contact  - G Shobitha
 * Display all Emergency Contact - Shiva S
 * Block a contact - Vikram vasudevan
-* Search a Contact - AM Raghavendra
+* Search a Contact - A M Raghavendra
 * Data Entry - Aquil Rodriguez
 * Business Transactions - Anais Nikitha
 * Code Integration - Aquil Rodriguez
@@ -45,7 +45,7 @@
 ### Test Plan - Shiva S
 ### Doxygen Documentation - Singamreddy Sai Rishita
 ### Project Poster - G Shobitha
-
+### Setting up github workflows - A M Raghavendra
 ## Day - 5 - 24th August,2021
 ### Report- G Shobitha
 ### ReadMe.md - Sushma Harihar
