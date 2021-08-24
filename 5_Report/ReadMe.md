@@ -48,5 +48,5 @@
 ### Setting up github workflows - A M Raghavendra
 ## Day - 5 - 24th August,2021
 ### Report- G Shobitha
-### ReadMe.md - Sushma Harihar
+### ReadMe.md - G Shobitha
 
