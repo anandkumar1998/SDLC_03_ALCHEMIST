@@ -28,7 +28,7 @@ Folder               | Description
 |99005663| Sai Rishitha S | F_1 |
 |99005669| Suhas L|F_2|
 |99005649| Vikram Vasudevan|F_6,F_7|
-|99005585| Anais Nikitha| F_10|
+|99005585| Anasi Nikitha| F_10|
 |99005694| Raghavendra A M|F_3|
 |99005634| Shiva S|F_8, F_12|
 |99005401|Anand Kumar| F_2 |
