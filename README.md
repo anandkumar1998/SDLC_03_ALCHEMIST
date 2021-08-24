@@ -51,7 +51,7 @@ Folder               | Description
 |F_12| Test Plan|
 
 ## Challenges
-* Inavailability of documentation for testing file I/O
+* Unavailability of documentation for testing file I/O
 * Didnot know how to add testfiles for function with void type
 
 
