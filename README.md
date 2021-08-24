@@ -27,7 +27,7 @@ Folder               | Description
 |99005684| Aquil Rodrigues | F_9 |
 |99005663| Sai Rishitha S | F_1 |
 |99005669| Suhas L|F_2|
-|99005649| Vikran Vasudevan|F_6,F_7|
+|99005649| Vikram Vasudevan|F_6,F_7|
 |99005585| Anais Nikitha| F_10|
 |99005694| Raghavendra A M|F_3|
 |99005634| Shiva S|F_8, F_12|
