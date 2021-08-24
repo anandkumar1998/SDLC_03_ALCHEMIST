@@ -18,10 +18,10 @@
 * Features - Shiva S
 * Ageing Time - Singamreddy Sai Rishita
 * 4W and 1H - G Shobitha
-* SWOT Analysis - Anais Nikitha
+* SWOT Analysis - Anasi Nikitha
 
 ## Day - 2 - 20th August,2021
-* UML - Behavioural UML - Shiva S and Anais Nikitha
+* UML - Behavioural UML - Shiva S and Anasi Nikitha
 * UML - Structural UML - Aquil Rodriquez and Anand Kumar
 * UML - Behavioural UML - A M Raghavendra and Suhas L
 * UML - Structural UML - Singamreddy Sai Rishita and G Shobitha
@@ -34,11 +34,12 @@
 * Edit a contact - Anand Kumar
 * Add a contact to Favourite - G Shobitha
 * List all Favourite Contact  - G Shobitha
-* Display all Emergency Contact - Shiva S
-* Block a contact - Vikram vasudevan
+* Add and Update all Emergency Contact - Shiva S
+* Block a contact - Vikram Vasudevan
+* List all Blocked contacts - Vikram Vasudevan
 * Search a Contact - A M Raghavendra
 * Data Entry - Aquil Rodriguez
-* Business Transactions - Anais Nikitha
+* Business Transactions - Anasi Nikitha
 * Code Integration - Aquil Rodriguez
 
 ## Day - 4 - 23rd August,2021
