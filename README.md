@@ -29,7 +29,7 @@ Folder               | Description
 |99005669| Suhas L|F_2|
 |99005649| Vikran Vasudevan|F_6,F_7|
 |99005585| Anais Nikitha| F_10|
-|99005694| raghavendra AM|F_3|
+|99005694| Raghavendra A M|F_3|
 |99005634| Shiva S|F_8, F_12|
 |99005401|Anand Kumar| F_2 |
 |99005652| Sushma Harihar| F_11|
