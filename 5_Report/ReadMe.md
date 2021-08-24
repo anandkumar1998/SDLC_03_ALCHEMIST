@@ -42,10 +42,12 @@
 * Code Integration - Aquil Rodriguez
 
 ## Day - 4 - 23rd August,2021
+
 ### Test Plan - Shiva S
 ### Doxygen Documentation - Singamreddy Sai Rishita
 ### Project Poster - G Shobitha
-### Setting up github workflows - A M Raghavendra
+### Setting up github workflows - Raghavendra A M
+
 ## Day - 5 - 24th August,2021
 ### Report- G Shobitha
 ### ReadMe.md - G Shobitha
