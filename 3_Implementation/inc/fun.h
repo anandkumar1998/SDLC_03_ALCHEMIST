@@ -48,4 +48,6 @@ void transaction();
 
 void report();
 
+void emerg_cont();
+
 #endif

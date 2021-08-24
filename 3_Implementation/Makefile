@@ -13,7 +13,8 @@ src/fav_contact.c\
 src/search_to_add_fav.c\
 src/list_all_favourites.c\
 src/transaction.c\
-src/report.c
+src/report.c\
+src/emerg_cont.c
 
 TEST = test.c\
 unity/unity.c

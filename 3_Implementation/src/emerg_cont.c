@@ -14,6 +14,7 @@
 #include<process.h>
 #include<stdlib.h>
 #include<dos.h>
+#include "fun.h"
 
 struct emergency_add_contact
 {
@@ -101,7 +102,7 @@ void emerg_cont()
 
 			fclose (fr);
 			//END OF BLOCK CODE
-			printf("You can add any additional emergency contacts here\n");
+			printf("You can add any additional emergency contacts here\nTo exit press spacebar and enter");
 			printf("Enter you name\n");
 
             scanf("%[^\n]",&list.name);
